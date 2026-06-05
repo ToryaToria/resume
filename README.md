@@ -4,9 +4,13 @@
 ## Frontend-разработчик, HTML-верстальщик
 
 г. Старый Крым.
+
 +7 (978) 720-59-10
- kalugina.v.i@yandex.ru
+
+kalugina.v.i@yandex.ru
+
 @torya_toria
+
 Github: https://github.com/ToryaToria
 
 ### Стек технологий:
